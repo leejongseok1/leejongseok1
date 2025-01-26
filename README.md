@@ -5,7 +5,9 @@
 
 👋 Hello, I'm Jongseok Lee.
 
-I am currently working on data analysis and object detection at KICET, while also studying computer vision due to my strong interest in the field.
+I am currently working on data analysis and object detection at KICET, while also studying computer vision due to my strong interest in the field. 
+
+Additionally, To enhance my communication skills, I am  currently participating in an English study group with Indian colleagues at work.
 
 ### 📖 Education
 
@@ -34,7 +36,6 @@ I am currently working on data analysis and object detection at KICET, while als
     - (2024.07~Present)
 
 <br>
-<br>
 
 ### ✨ Tech Stack
 
@@ -44,7 +45,7 @@ I am currently working on data analysis and object detection at KICET, while als
 
 🟡 **Some Experience with**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="https://img.shields.io/badge/SQL-55FF55?style=for-the-badge&logo=<로고이름>&logoColor=white"> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="https://img.shields.io/badge/SQL-55FF55?style=for-the-badge&"> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -54,8 +55,6 @@ I am currently working on data analysis and object detection at KICET, while als
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <br>
-<br>
-
 
 ### 📊 GitHub Stats
 
