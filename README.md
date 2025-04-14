@@ -3,25 +3,18 @@
 
 ## JONGSEOK LEE
 
-👋 Hello, I'm Jongseok Lee.
-
-I am currently working on data analysis and object detection at KICET, while also studying computer vision due to my strong interest in the field. 
-
-Additionally, To enhance my communication skills, I am  currently participating in an English study group with Indian colleagues at work.
-
 ### 📖 Education
 
-- **Hankyong National University**
   - *Bachelor of Science in Computer Engineering (2018-2024)*
 
 ### 💼 Experience
 
 - **Korea Institute of Ceramic Engineering and Technology (KICET)** 
     - ***Intern Researcher** (2024.07~Present)*
-        - Data Analysis and Project Support
+        - Data Analysis
         - **Development of ML-based Model** for Material Property Prediction
-        - Defect Type **Object Detection** of Semiconductor Cells
- 
+        - Defect **Object Detection**
+        - Other deep learning-related research 
 ### 📈 Project
 
 - [**Face Recognition Door Lock System Based on Raspberry Pi and Dlib**](https://github.com/leejongseok1/Doorlock) 
@@ -47,7 +40,6 @@ Additionally, To enhance my communication skills, I am  currently participating 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="https://img.shields.io/badge/SQL-55FF55?style=for-the-badge&"> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 🔴 **Extensive Experience with**
@@ -55,24 +47,23 @@ Additionally, To enhance my communication skills, I am  currently participating 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <br>
-
+<!-- 
 ### 📊 GitHub Stats
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=leejongseok1" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejongseok1&layout=compact" width="300"/>
-</div>
-
+</div> -->
 <br>
 <br>
 
-### 📞 Contact Me
+### 📞 Contact
 
 📩 **Email** : ljs0301@kicet.re.kr
 
-📬 **LinkedIn** : Coming soon
+📬 **LinkedIn** : -
 
-🌐 **Blog** : Still a Secret 😜
+🌐 **Blog** : -
 
 <!--
 **leejongseok1/leejongseok1** is a ✨ _special_ ✨ repos)*itory because its `README.md` (this file) appears on your GitHub profile.
