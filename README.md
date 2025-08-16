@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=2C2C2C&height=200&section=header&text=JONGSEOK%20LEE&fontSize=50&animation=fadeIn&fontColor=A1A1A1)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rect&color=2C2C2C&height=200&section=header&text=JONGSEOK%20LEE&fontSize=50&animation=fadeIn&fontColor=A1A1A1)
 
 
 ## JONGSEOK LEE
@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
