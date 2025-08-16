@@ -54,16 +54,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leejongseok1" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejongseok1&layout=compact" width="300"/>
 </div> -->
-<br>
+<!-- <br>
 <br>
 
 ### 📞 Contact
 
-📩 **Email** : ljs0301@kicet.re.kr
+<!-- 📩 **Email** : ljs0301@kicet.re.kr -->
 
-📬 **LinkedIn** : -
+<!-- 📬 **LinkedIn** : - -->
 
-🌐 **Blog** : -
+<!-- 🌐 **Blog** : - -->
 
 <!--
 **leejongseok1/leejongseok1** is a ✨ _special_ ✨ repos)*itory because its `README.md` (this file) appears on your GitHub profile.
